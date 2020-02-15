@@ -14,7 +14,7 @@ namespace RM.Busines
     public class DataFactory
     { 
         /// <summary>
-        /// 链接 SqlServer 数据库
+        /// 链接 SqlServer 数据库，测试git
         /// </summary>
         /// <returns></returns>
         public static IDbHelper SqlDataBase()
