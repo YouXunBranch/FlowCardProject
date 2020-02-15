@@ -12,7 +12,7 @@ namespace RM.Busines
     /// 连接数据库服务工厂
     /// </summary>
     public class DataFactory
-    {
+    { 
         /// <summary>
         /// 链接 SqlServer 数据库
         /// </summary>
